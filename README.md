@@ -2,10 +2,6 @@
 
 Realização da análise de um conjunto de dados real, de forma a prever os custos médicos individuais cobrados pelo seguro de saúde.
 
-### Linguagem
-
-* R
-
 ### Técnicas de Avaliação de Qualidade
 
 * Validation Set Approach
